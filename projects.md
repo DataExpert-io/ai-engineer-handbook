@@ -1,0 +1,29 @@
+# Free projects you could work on
+
+- Build a RAG (Retrieval-Augmented Generation) chatbot
+  - [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/)
+  - [LlamaIndex RAG Starter](https://docs.llamaindex.ai/en/stable/getting_started/starter_example/)
+  - [AdalFlow RAG Tutorial](https://adalflow.sylph.ai/tutorials/rag.html)
+- Build a custom AI agent
+  - [LangGraph Agent Tutorial](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+  - [CrewAI Multi-Agent Example](https://docs.crewai.com/quickstart)
+  - [AutoGen Agent Tutorial](https://microsoft.github.io/autogen/docs/tutorial/introduction/)
+- Fine-tune an LLM on custom data
+  - [Hugging Face Fine-Tuning Tutorial](https://huggingface.co/docs/transformers/training)
+  - [LoRA Fine-Tuning with PEFT](https://huggingface.co/docs/peft/tutorial/peft_model_config)
+  - [Unsloth Fast Fine-Tuning](https://github.com/unslothai/unsloth)
+- Build a semantic search engine
+  - [Pinecone Semantic Search Tutorial](https://www.pinecone.io/learn/semantic-search/)
+  - [Weaviate Quickstart](https://weaviate.io/developers/weaviate/quickstart)
+- Build a text-to-SQL application
+  - [LangChain SQL Agent](https://python.langchain.com/docs/tutorials/sql_qa/)
+  - [Vanna.AI Text-to-SQL](https://vanna.ai/)
+- Deploy an LLM-powered API
+  - [vLLM Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)
+  - [BentoML LLM Deployment](https://docs.bentoml.com/en/latest/use-cases/large-language-models/index.html)
+  - [Ollama Local Deployment](https://ollama.com/)
+- Build an AI-powered document Q&A system
+  - [Unstructured.io + LangChain Pipeline](https://unstructured.io/)
+  - [LlamaIndex Document Parsing](https://docs.llamaindex.ai/en/stable/)
+- **[Build GPT from Scratch](https://karpathy.ai/zero-to-hero.html)**: Andrej Karpathy's legendary series walking through building a GPT-style language model from the ground up, covering tokenization, attention, training, and inference.
+- **[Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)**: End-to-end coverage of building LLM-powered applications, from prompt engineering to deployment and monitoring.
