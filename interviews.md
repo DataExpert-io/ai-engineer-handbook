@@ -12,7 +12,6 @@ This is a list of resources you can rely on for great interview prep advice!
   - [Designing ML Systems Summary](https://github.com/chiphuyen/machine-learning-systems-design)
 
 - The LLM / AI Engineering Interview
-  - [LLM Interview Questions & Concepts](https://www.interviewquery.com/p/llm-interview-questions)
   - [Prompt Engineering Interview Guide](https://www.promptingguide.ai/)
   - [RAG Architecture Design Questions](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 
