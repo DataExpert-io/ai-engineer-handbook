@@ -189,7 +189,7 @@ Here's a mostly comprehensive list of AI engineering creators:
 | AI Jason                   | [AI Jason](https://www.youtube.com/@AIJasonZ)                                                   | 200,000+       |
 | Jeremy Howard              | [Jeremy Howard](https://www.youtube.com/@howardjeremyp)                                         | 100,000+       |
 | Weights & Biases           | [Weights & Biases](https://www.youtube.com/@WeightsBiases)                                      | 50,000+        |
-| Abhishek Thakur            | [Abhishek Thakur](https://www.youtube.com/@abhaborishekkthakur)                                 | 200,000+       |
+| Abhishek Thakur            | [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur)                                 | 200,000+       |
 | Zach Wilson                | [Data with Zach](https://www.youtube.com/@eczachly_)                                            | 150,000+       |
 
 
@@ -207,7 +207,7 @@ Here's a mostly comprehensive list of AI engineering creators:
 | Damien Benveniste        | [Damien Benveniste](https://www.linkedin.com/in/damienbenveniste/)                                       | 100,000+       |
 | Eugene Yan               | [Eugene Yan](https://www.linkedin.com/in/eugeneyan/)                                                    | 50,000+        |
 | Hamel Husain             | [Hamel Husain](https://www.linkedin.com/in/hamelhusain/)                                                 | 50,000+        |
-| Shreya Shankar           | [Shreya Shankar](https://www.linkedin.com/in/shreyashankar/)                                             | 20,000+        |
+| Shreya Shankar           | [Shreya Shankar](https://www.linkedin.com/in/shrshnk/)                                             | 20,000+        |
 | Shawn Wang (swyx)        | [Shawn Wang](https://www.linkedin.com/in/shawnswyxwang/)                                                     | 6,000+        |
 | Cameron Wolfe            | [Cameron Wolfe](https://www.linkedin.com/in/camerondwolfe/)                                              | 50,000+        |
 | Zach Wilson              | [Zach Wilson](https://www.linkedin.com/in/eczachly)                                                     | 500,000+       |
