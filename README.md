@@ -189,7 +189,7 @@ Here's a mostly comprehensive list of AI engineering creators:
 | AI Jason                   | [AI Jason](https://www.youtube.com/@AIJasonZ)                                                   | 200,000+       |
 | Jeremy Howard              | [Jeremy Howard](https://www.youtube.com/@howardjeremyp)                                         | 100,000+       |
 | Weights & Biases           | [Weights & Biases](https://www.youtube.com/@WeightsBiases)                                      | 50,000+        |
-| Abhishek Thakur            | [Abhishek Thakur](https://www.youtube.com/@abhaborishekkthakur)                                 | 200,000+       |
+| Abhishek Thakur            | [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur)                                 | 200,000+       |
 | Zach Wilson                | [Data with Zach](https://www.youtube.com/@eczachly_)                                            | 150,000+       |
 
 
