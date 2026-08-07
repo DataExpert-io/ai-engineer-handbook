@@ -247,6 +247,7 @@ Here's a mostly comprehensive list of AI engineering creators:
 - [High Agency by Lenny Rachitsky](https://www.lennysnewsletter.com/podcast)
 - [Cognitive Revolution](https://www.cognitiverevolution.ai/)
 - [ThursdAI](https://thursdai.news/)
+- [Chain of Thought by Conor Bronsdon](https://chainofthought.show/)
 
 ### Great [list of newsletters](newsletters.md)
 
