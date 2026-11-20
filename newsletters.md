@@ -22,3 +22,4 @@
 - [ML Ops Roundup](https://mlopsroundup.substack.com/)
 - [Deep Learning Weekly](https://www.deeplearningweekly.com/)
 - [ThursdAI Newsletter](https://thursdai.news/)
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now
