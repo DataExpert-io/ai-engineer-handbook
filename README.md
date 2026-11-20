@@ -99,6 +99,7 @@ Top must-join communities for AI Engineering:
   - [Patronus AI](https://www.patronus.ai/)
   - [Galileo](https://www.rungalileo.io/)
   - [Helicone](https://www.helicone.ai/)
+  - [Bifrost](https://github.com/maximhq/bifrost) - Open-source, self-hosted AI gateway with multi-provider routing, failover, governance, and observability.
   - [LangSmith](https://smith.langchain.com/)
   - [OpenLLMetry](https://github.com/traceloop/openllmetry)
 - AI Safety & Guardrails
